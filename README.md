@@ -5,7 +5,7 @@
 - 👀 I am particularly passionate about the domain of SQL and data visualization, where I work to transform raw data into actionable insights that support strategic decision-making.
   With strong expertise in SQL querying and building intuitive data visualizations, I strive to empower teams and organizations to unlock the full potential of their data.
   
-- 🌱 I’m currently expanding my skills in Tableau and Power BI, while being highly proficient in Google Looker Studio.
+- 🌱 I’m currently expanding my skills in Power BI, while being highly proficient in Google Looker Studio.
   My experience with Looker Studio has allowed me to create impactful data visualizations and dashboards, helping organizations easily interpret and act on their data.
   As I dive deeper into Tableau and Power BI, I’m eager to broaden my ability to deliver even more dynamic and insightful visualizations, and I look forward to applying these tools to further enhance data-driven decision-making within teams and businesses.
 <!---
